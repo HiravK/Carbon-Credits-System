@@ -1,5 +1,3 @@
-
-
 Blockchain-Driven Carbon Management integrates blockchain for transparency, automated credit systems, XRC-20 tokens for carbon trading, AI predictive analysis, pooling tokens, reward system, user-friendly interfaces, incentives, compliance, and public awareness. Revolutionizing emissions control for a sustainable future.
 
 ### Deployed Contracts (XDC testnet Apothem),
